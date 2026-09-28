@@ -33,10 +33,9 @@ The script works with Torn's dynamically loaded mailbox/message interface and au
 Before:
 
 ```text
-Can you investigate RGiskard [1953860] and Turt [2472641]?
-```
+DrGonzo [59922] : $4,532,396 offered for their arrest```
 
-After, both player references are clickable and open their Torn profiles in new tabs.
+After, player references are clickable and open their Torn profiles in new tabs.
 
 ## Installation
 

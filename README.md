@@ -33,7 +33,8 @@ The script works with Torn's dynamically loaded mailbox/message interface and au
 Before:
 
 ```text
-DrGonzo [59922] : $4,532,396 offered for their arrest```
+DrGonzo [59922] : $4,532,396 offered for their arrest
+```
 
 After, player references are clickable and open their Torn profiles in new tabs.
 

@@ -44,6 +44,8 @@ After, player references are clickable and open their Torn profiles in new tabs.
 
 You need a userscript manager capable of running Tampermonkey/Greasemonkey-style userscripts.
 
+[![Install with Tampermonkey](https://img.shields.io/badge/Install%20with-Tampermonkey-00485B?logo=tampermonkey&logoColor=white&style=for-the-badge)](https://github.com/YOUR_USERNAME/torn-most-wanted-profile-links/raw/refs/heads/main/torn-most-wanted-profile-links.user.js)
+
 Recommended:
 
 - [Tampermonkey](https://www.tampermonkey.net/)
